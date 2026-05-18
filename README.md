@@ -1,4 +1,4 @@
-**# Fuel Consumption Analysis with Power BI
+# Fuel Consumption Analysis with Power BI
 
 ## Project Overview
 
@@ -23,6 +23,8 @@ The analysis was built in Power BI to identify consumption patterns, fuel effici
 - Power BI
 - Power Query
 - DAX
+- Python
+- Google Colab
 
 ---
 
@@ -37,7 +39,7 @@ The analysis was built in Power BI to identify consumption patterns, fuel effici
 
 ## Dashboard Preview
 
-![Dashboard Overview](Analisis_CPG.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
@@ -45,13 +47,12 @@ The analysis was built in Power BI to identify consumption patterns, fuel effici
 
 - `.pbix` Power BI dashboard
 - Dashboard screenshots
-
+- Future Python notebooks and datasets
 
 ---
 
 ## Author
 
-- Alejandro Estrada González
 Alejandro Estrada
 
-Data Analyst | Power BI | Python | Energy & Fuel Consumption Analytics**
+Data Analyst | Power BI | Python | Energy & Fuel Consumption Analytics
