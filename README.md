@@ -43,6 +43,20 @@ The analysis was built in Power BI to identify consumption patterns, fuel effici
 
 ---
 
+## Interactive Notebook
+
+[View Python Analysis Notebook](https://nbviewer.org/github/aestrada-data/fuel-consumption-analysis-powerbi/blob/main/Analisis_Gas.ipynb)
+
+---
+
+## Key Insights
+
+- Fuel prices show a continuous upward trend over the analyzed years
+- Annual fuel expenses increased significantly over time
+- Vehicle efficiency varies depending on driving conditions and fuel prices
+- Historical fueling records provide useful indicators for personal expense analysis
+
+
 ## Files Included
 
 - `.pbix` Power BI dashboard
