@@ -39,7 +39,7 @@ The analysis was built in Power BI to identify consumption patterns, fuel effici
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Analisis_CPG.png)
 
 ---
 
