@@ -68,6 +68,41 @@ El análisis fue desarrollado en Power BI con el objetivo de identificar patrone
 
 ---
 
+## Modelo de Machine Learning
+
+Como parte complementaria del análisis, se desarrolló un modelo de Machine Learning utilizando Python y Google Colab con el objetivo de explorar patrones de comportamiento y capacidades predictivas a partir de los registros históricos de consumo de combustible.
+
+El modelo incluye procesos de:
+- preparación y limpieza de datos
+- análisis exploratorio
+- entrenamiento de modelos
+- evaluación de resultados
+- visualización de métricas
+
+Herramientas y librerías utilizadas:
+- Python
+- pandas
+- scikit-learn
+- matplotlib
+- Google Colab
+
+### Visualización del Notebook
+
+[Ver Modelo de Machine Learning en NBViewer](https://nbviewer.org/github/aestrada-data/fuel-consumption-analysis-powerbi/blob/main/Modelo_ML_Gasolina.ipynb)
+
+---
+
+## Aplicación de IA Generativa
+
+Durante el desarrollo del proyecto se utilizaron herramientas de IA generativa como apoyo para:
+- optimización de código
+- estructuración del flujo analítico
+- depuración de procesos
+- documentación técnica
+- aceleración del desarrollo del modelo
+
+La implementación, interpretación de resultados, validación del análisis y construcción del proyecto fueron realizadas como parte del proceso de modelado y aplicación práctica de herramientas de análisis de datos y Machine Learning.
+
 ## Autor
 
 Alejandro Estrada
